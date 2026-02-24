@@ -13,10 +13,10 @@
         <li>
             <p>danh sách tổ 1</p>
             <ul>
-                <li>Trần Văn Trung</li>
-                <li>Nguyễn Thị Tú</li>
-            </ul>
-        </li>
+        <li>Trần Văn Trung</li>
+        <li>Nguyễn Thị Tú</li>
+    </ul>
+    </li>
     </ul>
 </body>
 </html>
